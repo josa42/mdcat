@@ -1,5 +1,5 @@
 hash: cfd74d8fdcb03357e9290b4192c58b969b6b80a0eb0c6b64f36248f7e38b2842
-updated: 2018-01-18T23:05:30.743989+01:00
+updated: 2018-01-19T21:03:48.83534+01:00
 imports:
 - name: github.com/fatih/color
   version: 570b54cabe6b8eb0bc2dfce68d964677d63b5260
@@ -8,7 +8,7 @@ imports:
 - name: github.com/josa42/go-terminal-image
   version: 13e098230ff979ae0b6d3acaac3e814795f58c85
 - name: github.com/josa42/go-terminal-markdown
-  version: e644502bc1d53800da0fb45bc2bea610785cdd4e
+  version: c9ac1af48aebb1e63861853903c8fd364bf2c58d
   subpackages:
   - markdown
 - name: github.com/mattn/go-colorable
